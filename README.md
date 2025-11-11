@@ -1,12 +1,12 @@
 <!-- Festive divider -->
-<p align="center" style="font-size:22px;">🎃 🕷️ 🦇 🎃 🕸️ 🦇 🕷️ 🎃</p>
+<p align="center" style="font-size:22px;">🦃 🍂 🧡 🍁 🥧 🍂 🦃 🍁</p>
 
-<h1>🎃👋 Hi, I’m @KatieBarnes147 👻</h1>
-<h2>🕸️🛡️ Cybersecurity Professional | Software Engineer 🕷️</h2>
-<h3>🧙‍♀️🎓 M.S., Computer Science & Software Engineering (2025) — Merrimack College</h3>
-<h4>🦇🤝 Open to collaborating on security-focused & full-stack projects</h4>
-<h5>📫 Reach me on <a href="https://www.linkedin.com/in/katie-barnes-372028134/">LinkedIn</a> 🎃</h5>
-<h6>⚡ Fun fact: I code for fun and I love Halloween season! 🕸️🕯️</h6>
+<h1>🦃👋 Hi, I’m @KatieBarnes147 🍁</h1>
+<h2>🍂🛡️ Cybersecurity Professional | Software Engineer 🥧</h2>
+<h3>🎓🍁 M.S., Computer Science & Software Engineering (2025) — Merrimack College</h3>
+<h4>🤝🍂 Open to collaborating on security-focused & full-stack projects</h4>
+<h5>📫 Connect with me on <a href="https://www.linkedin.com/in/katie-barnes-372028134/">LinkedIn</a> 🧡</h5>
+<h6>⚡ Fun fact: I love building secure systems and I also love holiday cooking season! 🥧🍽️</h6>
 
 ---
 
@@ -32,7 +32,6 @@ I bring a **security-first mindset** to everything I build.
 - **Digital Forensics Portfolio** — Investigations and lab work (Autopsy, FTK Imager, OSForensics).  
 - **Full-Stack Portfolio Site** — Personal portfolio of projects and write-ups.
 
-
 ---
 
 ## 🛡️ Security Notes
@@ -42,13 +41,13 @@ I bring a **security-first mindset** to everything I build.
 ---
 
 ## 📫 Contact
-- **LinkedIn:** https://www.linkedin.com/in/katie-barnes-372028134/
-- **Portfolio Website:** https://katiebarnes147.github.io/my-portfolio  
+- **LinkedIn:** https://www.linkedin.com/in/katie-barnes-372028134/  
+- **Portfolio Website:** https://katiebarnes147.github.io/my-portfolio
 
-<p align="center" style="font-size:22px;">🦇 Happy hacking & happy hauntings! 🕸️</p>
-
+<p align="center" style="font-size:22px;">🍁 Wishing you cozy coding and warm autumn vibes! 🧡</p>
 
 <!---
 KatieBarnes147/KatieBarnes147 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
