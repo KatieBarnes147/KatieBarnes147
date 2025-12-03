@@ -1,4 +1,6 @@
-<p align="center" style="font-size:22px;">🎄 ❄️ 🎁 ✨ ⛄ ✨ 🎁 ❄️ 🎄</p>
+<p align="center" style="font-size:24px;">
+🎄✨❄️🎁⛄🎅✨🎄❄️🎁⛄🎅
+</p>
 
 # 🎅 Hi, I’m @KatieBarnes147 🎄
 ## ❄️ Cybersecurity Professional | Software Engineer ⛄
@@ -8,6 +10,10 @@
 ###### ⚡ Fun fact: I love building secure systems — and Christmas season coding with hot cocoa! ☕🎄
 
 ---
+
+<p align="center" style="font-size:22px;">
+❄️ ✨ ❄️ ✨ ❄️ ✨ ❄️ ✨ ❄️
+</p>
 
 ## 🎄 About Me
 I’m a **Cybersecurity Professional & Software Engineer** with a background in **digital forensics, secure coding, and criminal justice**.  
@@ -43,6 +49,12 @@ I bring a **security-first mindset**, festive spirit included. 🎅
 - **LinkedIn:** [Link](https://www.linkedin.com/in/katie-barnes-372028134/)  
 - **Portfolio Website:** [Link](https://katiebarnes147.github.io/my-portfolio)
 
-<p align="center" style="font-size:22px;">🎄 Wishing you merry coding and cozy Christmas vibes! ✨</p>
+<p align="center" style="font-size:24px;">
+🎄✨❄️🎁⛄🎅✨🎄❄️🎁⛄🎅
+</p>
+
+<p align="center" style="font-size:20px;">
+🎄 Wishing you merry coding and cozy Christmas vibes! ✨❄️
+</p>
 
 
