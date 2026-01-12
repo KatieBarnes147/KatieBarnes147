@@ -48,6 +48,7 @@ I bring a **security-first mindset** with attention to detail and care in everyt
 ## 📫 Contact
 - **LinkedIn:** [Link](https://www.linkedin.com/in/katie-barnes-372028134/)  
 - **Portfolio Website:** [Link](https://katiebarnes147.github.io/my-portfolio)
+- **Cybersecurity Portfolio:** [Link](https://bu.digication.com/katie-barnes/home)
 
 <p align="center" style="font-size:24px;">
 💖🌹💘💕💌🌸💖🌹💘💕💌🌸
